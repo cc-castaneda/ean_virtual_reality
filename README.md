@@ -6,6 +6,7 @@ Requisitos:
 Versión de Unity 
 Instrucción de descarga: https://unity3d.com/unity/whats-new/2021.3.3
 Hunity Hub (Recomendado)
+
 Descargar Oculus Dev y seguir las instrucciones para la configuración respectiva: https://developer.oculus.com/?locale=es_LA
 
 Una vez se cumplan los requisitos anteriores:
