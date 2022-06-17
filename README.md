@@ -26,7 +26,7 @@ Una vez se cumplan los requisitos anteriores:
 
 ![Esta es una imagen](https://github.com/camilo-castaneda-hub/ean_virtual_reality/blob/main/GalleryInstructions/4.png)
 
-5: Posterior a la inportación del proyecto proceder a abrirlo. 
+5: Posterior a la importación del proyecto proceder a abrirlo. 
 
 ![Esta es una imagen](https://github.com/camilo-castaneda-hub/ean_virtual_reality/blob/main/GalleryInstructions/5.png)
 
